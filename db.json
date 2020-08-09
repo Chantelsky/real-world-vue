@@ -393,6 +393,24 @@
       "date": "2020-08-08T09:15:00.000Z",
       "time": "20:00",
       "attendees": []
+    },
+    {
+      "id": 4947861,
+      "user": {
+        "id": "abc123",
+        "name": "Chantel"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Chantel"
+      },
+      "title": "Adopt a puppy",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
     }
   ]
 }
