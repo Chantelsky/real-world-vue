@@ -429,6 +429,24 @@
       "date": "",
       "time": "",
       "attendees": []
+    },
+    {
+      "id": 3210116,
+      "user": {
+        "id": "abc123",
+        "name": "Chantel"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Chantel"
+      },
+      "title": "puppy parade",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
     }
   ]
 }
