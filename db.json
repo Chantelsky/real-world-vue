@@ -447,6 +447,24 @@
       "date": "",
       "time": "",
       "attendees": []
+    },
+    {
+      "id": 1136958,
+      "user": {
+        "id": "abc123",
+        "name": "Chantel"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Chantel"
+      },
+      "title": "Puppy Promenade",
+      "description": "Yay Puppies!",
+      "location": "Bark Tree",
+      "date": "2020-08-15T05:23:00.000Z",
+      "time": "10:00",
+      "attendees": []
     }
   ]
 }
